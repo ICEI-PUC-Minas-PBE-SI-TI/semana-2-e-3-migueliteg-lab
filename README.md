@@ -3,7 +3,7 @@
 ## Informações Gerais
 
 - Nome: Miguel Vieira
-- Matrícula: Miguel Vieira
+- Matrícula: 906892
 
 ## Print da tela da página criada (Curriculum Vitae)
 
