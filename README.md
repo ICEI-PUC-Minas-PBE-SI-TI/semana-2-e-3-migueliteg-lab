@@ -9,5 +9,8 @@
 
 `<Coloque aqui o print da tela do Curriculum Vitae>`
 
-![alt text](images/Captura de tela 2026-03-27 012029.png)
+![Print 1](images/Captura de tela 2026-03-27 012029.png)
+
+![Print 2](images/Captura de tela 2026-03-27 020950.png)
+
 
